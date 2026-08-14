@@ -1,0 +1,39 @@
+Module 6 Lab Activity - Test Results
+
+randomrange.py: PASS
+randomint.py: PASS
+randomday.py: PASS
+pi.py: PASS
+degrees.py: PASS
+factorial.py: PASS
+
+randomrange.py sample output:
+35
+29
+31
+29
+31
+29
+27
+30
+31
+30
+
+randomint.py sample output:
+Random odd integer: 97
+
+randomday.py sample output:
+Random day: Thursday
+
+pi.py sample output:
+Approximation of pi: 3.142857142857143
+Value of math.pi: 3.141592653589793
+
+degrees.py sample output:
+Enter a value in radians: Calculated degrees: 180.0
+math.degrees result: 180.0
+
+factorial.py sample output:
+Enter a non-negative integer: Calculated factorial: 120
+math.factorial result: 120
+

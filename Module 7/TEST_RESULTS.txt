@@ -1,0 +1,6 @@
+Module 7 Lab Activity Test Results
+
+All six files passed Python syntax compilation.
+Problems 1-4 passed logic checks.
+Problem 5 requires a local Turtle graphics window for visual verification.
+Problem 6 class structure and added attributes/methods were syntax-checked successfully.
